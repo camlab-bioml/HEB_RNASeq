@@ -1,0 +1,17 @@
+	CellType	Status
+KO_CM_1	CM	KO
+KO_CM_2	CM	KO
+KO_EM_1	EM	KO
+KO_EM_2	EM	KO
+KO_Naive_1	Naive	KO
+KO_Naive_2	Naive	KO
+KO_SCM_1	SCM	KO
+KO_SCM_2	SCM	KO
+WT_CM_1	CM	WT
+WT_CM_2	CM	WT
+WT_EM_1	EM	WT
+WT_EM_2	EM	WT
+WT_Naive_1	Naive	WT
+WT_Naive_2	Naive	WT
+WT_SCM_1	SCM	WT
+WT_SCM_2	SCM	WT
